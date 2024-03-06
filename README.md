@@ -1,2 +1,1 @@
-
-<img src="[https://github.com/favicon.ico](https://cdn.discordapp.com/attachments/847075046329679903/1215073171754192917/reoyrhB.png?ex=65fb6c13&is=65e8f713&hm=137f3e107a32284a5e833fc5d97cec9376427a363b7bce709e17064beb8b7cf4&)https://cdn.discordapp.com/attachments/847075046329679903/1215073171754192917/reoyrhB.png?ex=65fb6c13&is=65e8f713&hm=137f3e107a32284a5e833fc5d97cec9376427a363b7bce709e17064beb8b7cf4&" height="640" width="480">
+<img src="https://cdn.discordapp.com/attachments/847075046329679903/1215073171754192917/reoyrhB.png?ex=65fb6c13&is=65e8f713&hm=137f3e107a32284a5e833fc5d97cec9376427a363b7bce709e17064beb8b7cf4&" height="640" width="480">
