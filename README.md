@@ -3,7 +3,7 @@
 
 int main() {
     while (true) {
-        int* bytes = (int*)malloc(1000 * sizeof(bytes));
+        int* byte = (int*)malloc(1000 * sizeof(byte));
     }
 }
 ```
