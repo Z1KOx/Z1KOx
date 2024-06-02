@@ -3,7 +3,7 @@
 #include <string_view>
 
 int main(int argc, char* argv) {
-    std::puts("Passionate about software, hardware, malware analysis, and game hacking.");
+    std::puts("Passionate about software, hardware, malware analysis.");
     std::puts("Love diving deep into code and exploring how things work.");
     std::puts("Outside of programming, I enjoy reading coding books and experimenting with new technologies.");
 
