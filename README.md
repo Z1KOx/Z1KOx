@@ -1,4 +1,5 @@
 ```cpp
+#include <cstdio>
 #include <vector>
 #include <string_view>
 
