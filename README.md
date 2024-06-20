@@ -12,6 +12,6 @@ int main() {
     const std::vector<std::string_view> tools{ "x64dbg", "reClass", "IDA", "Ghidra" };
 }
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1KOx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
