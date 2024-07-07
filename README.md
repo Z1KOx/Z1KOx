@@ -9,7 +9,7 @@ int main() {
     std::puts("Outside of programming, I enjoy reading coding books and experimenting with new technologies.");
 
     const std::vector<std::string_view> languages{ "C++", "C", "ASMx86", "Python" };
-    const std::vector<std::string_view> tools{ "x64dbg", "reClass", "IDA", "Ghidra" };
+    const std::vector<std::string_view> tools{ "x64dbg", "ReClass", "IDA", "Ghidra" };
 }
 ```
 <p align="center">
