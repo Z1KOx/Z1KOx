@@ -6,7 +6,7 @@
 int main() {
     std::puts("Passionate about software, hardware, reverse engineering.");
     std::puts("Love diving deep into code and exploring how things work.");
-    std::puts("Outside of programming, I enjoy reading coding books and experimenting with new technologies.");
+    std::puts("Outside of programming, I enjoy reverse engineering, which helps me write more secure software.");
 
     const std::vector<std::string_view> languages{ "C++", "C", "ASMx86", "Python" };
     const std::vector<std::string_view> tools{ "x64dbg", "ReClass", "IDA", "Ghidra" };
