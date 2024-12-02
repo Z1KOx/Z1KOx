@@ -17,14 +17,8 @@ _start:
     push 0
     call MessageBoxA
 
-    cmp eax, 1
-    jne _exit
-
     push 0
     push 0
     push 0
     call InitiateSystemShutdown
-
-_exit:
-    ret
 ```
