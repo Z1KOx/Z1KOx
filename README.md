@@ -1,24 +1,26 @@
-```asm
-section .data
-    message db 'Welcome', 0
-    caption db 'gL49R6YvdXQ1U6', 0
+```cpp
+#include <string>
+#include <vector>
 
-section .text
-    global _start
-    extern MessageBoxA, InitiateSystemShutdown, GetModuleHandleA
+class User final
+{
+public:
+    explicit User( const std::string& name, const std::string& country, const std::vector<std::string>& langs )
+        : m_name( name ), m_country( country ), m_langs( langs )
+    { }
 
-_start:
-    push 0
-    call GetModuleHandleA
+    ~User() noexcept = default;
+    User( const User& ) = delete;
+    User( User&& ) = delete;
+    User& operator=( const User& ) = delete;
+    User& operator=( User&& ) = delete;
 
-    push 0
-    push caption
-    push message
-    push 0
-    call MessageBoxA
+private:
+    const std::string m_name, m_country;
+    const std::vector<std::string> m_langs;
+};
 
-    push 0
-    push 0
-    push 0
-    call InitiateSystemShutdown
+int main() {
+    const User Z1KO( "Daniel", "Germany", { "C", "C++", "Rust", "Assembly" } );
+}
 ```
