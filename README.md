@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 
-class User final
+class User
 {
 public:
     explicit User( const std::string& name, const std::string& country, const std::vector<std::string>& langs )
