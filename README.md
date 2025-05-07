@@ -1,11 +1,11 @@
 ```cpp
 #include <string>
-#include <vector>
+#include <initializer_list>
 
 class User
 {
 public:
-    explicit User( const std::string& name, const std::string& country, const std::vector<std::string>& langs )
+    explicit User( const std::string& name, const std::string& country, const std::initializer_list<std::string>& langs )
         : m_name( name ), m_country( country ), m_langs( langs )
     { }
 
@@ -17,7 +17,7 @@ public:
 
 private:
     const std::string m_name, m_country;
-    const std::vector<std::string> m_langs;
+    const std::initializer_list<std::string> m_langs;
 };
 
 int main() {
