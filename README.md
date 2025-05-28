@@ -24,3 +24,5 @@ int main() {
     const User Z1KO( "Daniel", "Germany", { "C", "C++", "Rust", "Assembly" } );
 }
 ```
+
+<img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
