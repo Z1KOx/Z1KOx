@@ -14,7 +14,7 @@
     <img width="12"/>
     <img src="https://skillicons.dev/icons?i=rust" height="45">
     <img width="12"/>
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/assembly.svg" height="45">
+    <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/assembly.svg" height="45">
     <img width="12"/>
     <img src="https://skillicons.dev/icons?i=html" height="45">
     <img width="12"/>
