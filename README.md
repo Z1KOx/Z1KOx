@@ -15,6 +15,10 @@
     <img src="https://skillicons.dev/icons?i=rust" height="45">
     <img width="12"/>
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/assembly.svg" height="45">
+    <img width="12"/>
+    <img src="https://skillicons.dev/icons?i=html" height="45">
+    <img width="12"/>
+    <img src="https://skillicons.dev/icons?i=css" height="45">
   </div>
 
   <div align="center">
@@ -24,6 +28,8 @@
     <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
     <img width="12"/>
     <img src="https://skillicons.dev/icons?i=clion" height="45"/>
+    <img width="12"/>
+    <img src="https://skillicons.dev/icons?i=cmake" height="45"/>
     <img width="12"/>
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
     <img width="12"/>
