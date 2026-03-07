@@ -22,7 +22,7 @@
   </div>
 
   <div align="center">
-    <h4>🛠 Development Environment</h4>
+    <h4>🛠 Development Environment / Tools</h4>
     <img src="https://skillicons.dev/icons?i=visualstudio" height="45"/>
     <img width="12"/>
     <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
