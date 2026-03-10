@@ -29,6 +29,8 @@
     <img width="12"/>
     <a href="https://www.jetbrains.com/clion/"><img src="https://skillicons.dev/icons?i=clion" height="45"></a>
     <img width="12"/>
+    <a href="https://www.jetbrains.com/rust/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/rustrover-auto.svg" height="45"></a>
+    <img width="12"/>
     <a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" height="45"></a>
     <img width="12"/>
     <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45"></a>
