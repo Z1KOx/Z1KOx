@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Daniel</h1>
-<h3 align="center">Developer interested in C++ and Web Security</h3>
+<h3 align="center">Developer interested in C++ and Cybersecurity</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=71B1F7&center=true&vCenter=true&width=600&lines=learning+something+new+every+day;passionate+about+programming;constantly+improving" />
