@@ -15,10 +15,6 @@
     <a href="https://sonictk.github.io/asm_tutorial"><img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/assembly.svg" height="45"></a>
     <img width="12"/>
     <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="45"></a>
-    <img width="12"/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45"></a>
-    <img width="12"/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="45"></a>
   </div>
 
   <div align="center">
